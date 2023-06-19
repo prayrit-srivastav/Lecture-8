@@ -1,0 +1,152 @@
+[
+  {
+    "category": "Food & Drink",
+    "id": "622a1c3b7cc59eab6f9515a2",
+    "correctAnswer": "Three ",
+    "answers": ["Two", "Three ", "Four", "Five"],
+    "question": "How many pieces of bun are in a Mcdonald's Big Mac?",
+    "tags": ["food", "food_and_drink"],
+    "type": "Multiple Choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "Arts & Literature",
+    "id": "622a1c397cc59eab6f950e2d",
+    "correctAnswer": "L. Frank Baum",
+    "answers": [
+      "Suzanne Collins",
+      "James Fenimore Cooper",
+      "L. Frank Baum",
+      "Donna Leon"
+    ],
+    "question": "Which author wrote 'The Wonderful Wizard of Oz'?",
+    "tags": ["literature", "arts_and_literature"],
+    "type": "Multiple Choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "Sport & Leisure",
+    "id": "62417cc18c3137686862d737",
+    "correctAnswer": "Atlanta United",
+    "answers": [
+      "Atlanta United",
+      "Atlanta Impact",
+      "Atlanta Bulls",
+      "Atlanta Stars"
+    ],
+    "question": "Which of these is a soccer team based in Atlanta?",
+    "tags": ["sport"],
+    "type": "Multiple Choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "Science",
+    "id": "62433421cfaae40c12961425",
+    "correctAnswer": "A Nanny",
+    "answers": ["A Sow", "A Lioness", "A Hen", "A Nanny"],
+    "question": "A female goat is known as what?",
+    "tags": ["science"],
+    "type": "Multiple Choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "Arts & Literature",
+    "id": "622a1c397cc59eab6f950de1",
+    "correctAnswer": "P. L. Travers",
+    "answers": [
+      "J. R. R. Tolkien",
+      "P. L. Travers",
+      "Lewis Carroll",
+      "Enid Blyton"
+    ],
+    "question": "Which author wrote 'Mary Poppins'?",
+    "tags": ["literature", "childrens_literature", "arts_and_literature"],
+    "type": "Multiple Choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "Film & TV",
+    "id": "622a1c347cc59eab6f94fb48",
+    "correctAnswer": "Terms of Endearment",
+    "answers": [
+      "Terms of Endearment",
+      "The Big Chill",
+      "The Dresser",
+      "The Right Stuff"
+    ],
+    "question": "Which film won the Academy Award for Best Picture in 1983?",
+    "tags": ["academy_awards", "film", "film_and_tv"],
+    "type": "Multiple Choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "Film & TV",
+    "id": "622a1c377cc59eab6f9506ce",
+    "correctAnswer": "Jon Favreau",
+    "answers": [
+      "Seth Rogen",
+      "John Turturro",
+      "Jean-Claude Van Damme",
+      "Jon Favreau"
+    ],
+    "question": "Which actor has featued in films including My Name Is Earl and Spider-Man: Homecoming?",
+    "tags": ["film_and_tv"],
+    "type": "Multiple Choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "Geography",
+    "id": "62602d9d4b176d54800e3ca5",
+    "correctAnswer": "Hungary",
+    "answers": ["Luxembourg", "Hungary", "Moldova", "Greece"],
+    "question": "In which country is the city of Budapest?",
+    "tags": ["cities", "europe", "geography"],
+    "type": "Multiple Choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "Music",
+    "id": "622a1c397cc59eab6f950da7",
+    "correctAnswer": "ABBA",
+    "answers": ["In Flames", "HammerFall", "ABBA", "Katatonia"],
+    "question": "Which band includes 'Agnetha Fältskog'?",
+    "tags": ["music"],
+    "type": "Multiple Choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "Film & TV",
+    "id": "622a1c377cc59eab6f950617",
+    "correctAnswer": "Zoe Saldana",
+    "answers": [
+      "Catherine Deneuve",
+      "Audrey Hepburn",
+      "Rachel Weisz",
+      "Zoe Saldana"
+    ],
+    "question": "Which actor has featued in films including Guardians of the Galaxy and Avatar?",
+    "tags": ["film_and_tv"],
+    "type": "Multiple Choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  }
+]
