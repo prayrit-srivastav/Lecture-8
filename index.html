@@ -1,15 +1,29 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>Quiz Game</title>
-    <link rel="stylesheet" href="style.css" />
-  </head>
-  <body>
-    <h1>Quiz Game</h1>
-    <div id="question"></div>
-    <div id="options"></div>
-    <button id="next">Skip..</button>
-    <div id="score"></div>
-    <script src="quiz.js" type="module"></script>
-  </body>
+
+<head>
+    <title>DOM Manipulation</title>
+
+</head>
+
+<body>
+    <style>
+        body * {
+            margin: 10px;
+            border: 2px solid red
+        }
+    </style>
+    <!-- <h1 class="first" onclick="alert('this is the first heading!')">Somethiing</h1>
+    <h1 class="second">Document Object Model</h1>
+    <p id="para"> Lets Learn more about DOM manipulation here..</p> -->
+    <div style="background-color: yellow;">
+        <div style="background-color: yellowgreen;" id="innerDiv">
+            <h3 style="background-color: green;">Inner Heading</h3>
+        </div>
+    </div>
+
+    <script src="dom.js"> </script>
+
+</body>
+
 </html>
